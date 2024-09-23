@@ -1,55 +1,56 @@
-<h2 align="center">Hi 👋! My name is Asif and I'm a  from UK</h2>
+<h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Asif Ibrahim</h1>
 
-###
+<p align="center">
+  <b>𝑰 ❤️ 𝙎𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜!</b>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Asif-ibrahim101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <i>A problem can be solved in a hundred different ways, and there's always an easier way to solve it.</i>
+  <br>
+  <i>You miss 100% of the shots you don't take.</i>
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-Scalable-brightgreen" alt="Buiding Scalable">
+  <img src="https://img.shields.io/badge/Innovative-Technology-blueviolet" alt="Innovative Technology">
+</p>
 
-<img align="right" height="150" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/asif-ibrahim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <a href="https://www.instagram.com/asif.ibrahim__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-</div>
+<p align="center">
+  <samp>// The best code is the one that never needs comments.</samp>
+  <br>
+  <samp>console.log("Commit early, commit often.");</samp>
+  <br>
+  <samp><i>Good code is not written, it's crafted with experience.</i></samp>
+</p>
 
-###
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Asif-ibrahim101&label=Profile%20views&color=0e75b6&style=flat" alt="Asif-ibrahim101" /> </p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<p align="center">
+  <a href="https://github.com/sijeeshmiziha">
+    <img width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=Asif-ibrahim101&theme=dracula&hide_border=false" alt="Asif-ibrahim101" />
+  </a>
+  <a href="https://github.com/sijeeshmiziha">
+    <img width="212" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-ibrahim101&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/sijeeshmiziha">
+    <img width="274" src="https://github-readme-stats.vercel.app/api?username=Asif-ibrahim101&show_icons=true&count_private=true&hide=issues&theme=chartreuse-dark" alt="GitHub Stats" />
+  </a>
+</p>
 
-###
+<br clear="all">
 
-<br clear="both">
+<h2 align="center">🤝 Support</h2>
 
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center"> ❤️‍🔥 If you like my projects, Give them ⭐ and Share it with friends!</p>
+
+<p align='center'>⚡️<i>Stay awesome!</i>⚡️</p>
